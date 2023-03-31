@@ -1,0 +1,10 @@
+Operating Voltage:	5VDC
+Operating Current:	240mA (typical)
+Number of phases:		4
+Gear Reduction Ratio:	64:1
+Step Angle:			5.625°/64
+Frequency:			100Hz
+In-traction Torque:	>34.3mN.m(120Hz)
+Self-positioning Torque:>34.3mN.m
+Friction torque:	600-1200 gf.cm
+Pull in torque:	300 gf.cm
